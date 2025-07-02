@@ -5,4 +5,11 @@
   - ## Add hover effects and smooth transitions. 
   - ## Ensure responsive design for different screen sizes. 
   - ## Bonus: Add image filters or categories.
+
+# Task - 2   Calculator 
+  - ## Create a basic calculator using HTML, CSS, and JavaScript.
+  - ## Include all arithmetic operations: +, −, ×, ÷.  
+  - ## Design a user interface with buttons and display screen.  
+  - ## Handle user input, clearing screen, and real-time result display. 
+  - ## Bonus: Add keyboard support and styling enhancements. 
 ----------------------------
